@@ -54,9 +54,16 @@ Each folder has its own `README.md` with the notebook contents, install cell, an
 
 A recorded walkthrough explaining each notebook cell-by-cell:
 
-> **Video:** _(add your YouTube / unlisted video link here)_
+Each part can be its own video segment.
 
-Each part can be its own video segment — see each folder's README for the talking points.
+| Part | Topic | Video |
+|------|-------|-------|
+| 1 | K-Means and its variations | https://youtu.be/uMhKzvPJGS8 |
+| 2 | AutoGluon — landscape of capabilities | _(add link)_ |
+| 3 | AutoGluon — end-to-end ML with metrics | _(add link)_ |
+| 4 | NVIDIA RAPIDS vs CPU comparison | _(add link)_ |
+| 5 | PyCaret — capabilities landscape | _(add link)_ |
+| 6 | PyCaret — MLOps | _(add link)_ |
 
 ---
 
