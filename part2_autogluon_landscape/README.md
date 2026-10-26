@@ -5,6 +5,9 @@ A breadth tour of [AutoGluon](https://auto.gluon.ai/), AWS's open-source AutoML 
 ## Notebook
 - `autogluon_landscape.ipynb`
 
+## Video walkthrough
+- https://www.youtube.com/watch?v=DSapcsaV0sY
+
 ## What it covers
 - `TabularPredictor` for classification (Adult Income) and regression (California Housing)
 - The model zoo + `leaderboard()`
