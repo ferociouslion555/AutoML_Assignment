@@ -62,7 +62,7 @@ Each part can be its own video segment.
 | 2 | AutoGluon — landscape of capabilities | https://www.youtube.com/watch?v=DSapcsaV0sY |
 | 3 | AutoGluon — end-to-end ML with metrics | https://www.youtube.com/watch?v=xsPnw2ZNem8 |
 | 4 | NVIDIA RAPIDS vs CPU comparison | https://www.youtube.com/watch?v=ENIlUGNrE3c |
-| 5 | PyCaret — capabilities landscape | _(add link)_ |
+| 5 | PyCaret — capabilities landscape | https://www.youtube.com/watch?v=u8X83t8jL5g |
 | 6 | PyCaret — MLOps | _(add link)_ |
 
 ---
