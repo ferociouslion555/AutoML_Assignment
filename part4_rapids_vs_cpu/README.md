@@ -8,9 +8,6 @@ RAPIDS (cuDF, cuML and friends) compared with pandas and scikit-learn on the sam
 ## Video walkthrough
 https://www.youtube.com/watch?v=ENIlUGNrE3c
 
-## Video walkthrough
-- https://www.youtube.com/watch?v=ENIlUGNrE3c
-
 ## What it covers
 - Why GPUs help, the T4, and a first benchmark that counts the copy cost
 - cuDF as pandas on the GPU, and `cudf.pandas` (zero code change)
