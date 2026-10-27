@@ -8,6 +8,9 @@ A tour of PyCaret 3.3.2 across six kinds of problem, with synthetic datasets so 
 ## Video walkthrough
 https://www.youtube.com/watch?v=u8X83t8jL5g
 
+## Video walkthrough
+- https://www.youtube.com/watch?v=u8X83t8jL5g
+
 ## What it covers
 - The three-line pattern: `setup`, `compare_models`, `predict_model`
 - Binary classification (telecom churn), multiclass (loan grades) and regression (house prices)

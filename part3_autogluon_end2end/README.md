@@ -8,6 +8,9 @@ One problem followed in depth: a synthetic budgeting dataset of 1,500 households
 ## Video walkthrough
 https://www.youtube.com/watch?v=xsPnw2ZNem8
 
+## Video walkthrough
+- https://www.youtube.com/watch?v=xsPnw2ZNem8
+
 ## What it covers
 - The AutoML promise and its limits; a first predictor in three lines
 - Data analysis, the metric families for classification, and the leaderboard beyond the score

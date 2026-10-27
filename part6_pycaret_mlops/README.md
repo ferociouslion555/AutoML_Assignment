@@ -8,6 +8,9 @@ One synthetic budgeting dataset (1,500 households, predicting who will overspend
 ## Video walkthrough
 https://www.youtube.com/watch?v=Q2WS8I6nMK0
 
+## Video walkthrough
+- https://www.youtube.com/watch?v=Q2WS8I6nMK0
+
 ## What it covers
 - The lifecycle, a hand-built baseline, and a first PyCaret experiment
 - The `setup` preprocessing knobs, one at a time (imputation, scaling, multicollinearity, outliers, SMOTE, polynomial features and more)
