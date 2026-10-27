@@ -6,6 +6,9 @@ A deep, single-dataset AutoGluon workflow focused on evaluation and diagnostics
 ## Notebook
 - `autogluon_end2end.ipynb`
 
+## Video walkthrough
+- https://www.youtube.com/watch?v=xsPnw2ZNem8
+
 ## What it covers
 - Data exploration + train/test split
 - `TabularPredictor.fit()` with `best_quality` (bagging + stack ensembling)

@@ -60,7 +60,7 @@ Each part can be its own video segment.
 |------|-------|-------|
 | 1 | K-Means and its variations | https://youtu.be/uMhKzvPJGS8 |
 | 2 | AutoGluon — landscape of capabilities | https://www.youtube.com/watch?v=DSapcsaV0sY |
-| 3 | AutoGluon — end-to-end ML with metrics | _(add link)_ |
+| 3 | AutoGluon — end-to-end ML with metrics | https://www.youtube.com/watch?v=xsPnw2ZNem8 |
 | 4 | NVIDIA RAPIDS vs CPU comparison | _(add link)_ |
 | 5 | PyCaret — capabilities landscape | _(add link)_ |
 | 6 | PyCaret — MLOps | _(add link)_ |
