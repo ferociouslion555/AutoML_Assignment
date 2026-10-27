@@ -1,28 +1,34 @@
-# Part 5 — PyCaret: Capabilities Landscape
+# Part 5: PyCaret, capabilities landscape
 
-A breadth tour of [PyCaret](https://pycaret.org/), the low-code AutoML library,
-across every task type.
+A tour of PyCaret 3.3.2 across six kinds of problem, with synthetic datasets so every cell runs on the free CPU runtime.
 
 ## Notebook
-- `pycaret_landscape.ipynb`
+`Copy_of_final_pycaret_capabilities_tour_(1).ipynb` (95 code cells, committed with outputs)
+
+## Video walkthrough
+https://www.youtube.com/watch?v=u8X83t8jL5g
 
 ## What it covers
-- `setup()` automated preprocessing pipeline
-- **Classification**: `compare_models`, `tune_model`, `plot_model` (AUC/confusion/feature)
-- **Regression**: end-to-end with residual/error plots
-- **Clustering**: `create_model('kmeans')`, `assign_model`, cluster + elbow plots
-- **Anomaly detection**: Isolation Forest
-- `finalize_model` / `predict_model` / `save_model`
+- The three-line pattern: `setup`, `compare_models`, `predict_model`
+- Binary classification (telecom churn), multiclass (loan grades) and regression (house prices)
+- Tuning, bagging, blending, stacking and calibration
+- Rare events: card fraud with SMOTE and cost-based thresholds
+- Clustering (customer segments) and anomaly detection (transaction outliers)
+- Time series with an exogenous promo input
+- Text inside tables (product reviews)
+- Interpretability: SHAP, reason codes and a fairness check
+- Deployment: finalize, save, API file, and PSI drift monitoring
+- **My run** (cell [95]): PyCaret classification on the breast cancer dataset
 
 ## Runtime
-CPU is sufficient.
+CPU only. **Runtime version 2025.07 (Python 3.11) is required.** In Colab: **Runtime > Change runtime type > Runtime version > 2025.07 > Save**. PyCaret 3.3.2 supports Python 3.9 to 3.11 only.
 
 ## Install (first cell)
 ```python
-!pip install -q pycaret
+!pip install -q --only-binary=:all: "pycaret[analysis,models]==3.3.2"
 ```
+After the install, use **Runtime > Restart session** and run the first cell again. A red "dependency resolver" error block is expected and harmless.
 
-## How to run
-1. Open in Colab, run the install cell, restart runtime if prompted.
-2. `Runtime → Run all`.
-3. Commit the notebook **with outputs**.
+## Notes
+- MLflow is not installed in my run; the notebook says so where it matters.
+- Change from the reference Colab: the `pretty` table helper now handles string columns (pandas 3).
