@@ -6,6 +6,9 @@ pandas / scikit-learn on identical tasks.
 ## Notebook
 - `rapids_vs_cpu.ipynb`
 
+## Video walkthrough
+- https://www.youtube.com/watch?v=ENIlUGNrE3c
+
 ## What it covers
 - DataFrame groupby: **cuDF** vs pandas
 - **K-Means**: cuML vs scikit-learn

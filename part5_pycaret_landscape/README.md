@@ -6,6 +6,9 @@ across every task type.
 ## Notebook
 - `pycaret_landscape.ipynb`
 
+## Video walkthrough
+- https://www.youtube.com/watch?v=u8X83t8jL5g
+
 ## What it covers
 - `setup()` automated preprocessing pipeline
 - **Classification**: `compare_models`, `tune_model`, `plot_model` (AUC/confusion/feature)

@@ -60,10 +60,10 @@ Each part can be its own video segment.
 |------|-------|-------|
 | 1 | K-Means and its variations | https://youtu.be/uMhKzvPJGS8 |
 | 2 | AutoGluon — landscape of capabilities | https://www.youtube.com/watch?v=DSapcsaV0sY |
-| 3 | AutoGluon — end-to-end ML with metrics | _(add link)_ |
-| 4 | NVIDIA RAPIDS vs CPU comparison | _(add link)_ |
-| 5 | PyCaret — capabilities landscape | _(add link)_ |
-| 6 | PyCaret — MLOps | _(add link)_ |
+| 3 | AutoGluon — end-to-end ML with metrics | https://www.youtube.com/watch?v=xsPnw2ZNem8 |
+| 4 | NVIDIA RAPIDS vs CPU comparison | https://www.youtube.com/watch?v=ENIlUGNrE3c |
+| 5 | PyCaret — capabilities landscape | https://www.youtube.com/watch?v=u8X83t8jL5g |
+| 6 | PyCaret — MLOps | https://www.youtube.com/watch?v=Q2WS8I6nMK0 |
 
 ---
 
@@ -75,4 +75,4 @@ Each part can be its own video segment.
 - [ ] Part 4 — RAPIDS notebook runs on GPU, committed with outputs
 - [ ] Part 5 — PyCaret landscape notebook runs, committed with outputs
 - [ ] Part 6 — PyCaret MLOps notebook runs, committed with outputs
-- [ ] Video walkthrough recorded and linked above
+- [x] Video walkthroughs recorded and linked above (all 6 parts)

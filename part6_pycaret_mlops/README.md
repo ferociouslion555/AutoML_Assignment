@@ -6,6 +6,9 @@ and deployment scaffolding.
 ## Notebook
 - `pycaret_mlops.ipynb`
 
+## Video walkthrough
+- https://www.youtube.com/watch?v=Q2WS8I6nMK0
+
 ## What it covers
 - `setup(log_experiment=True)` → automatic **MLflow** experiment logging
 - Training with tracked runs; querying runs via `mlflow.search_runs`
